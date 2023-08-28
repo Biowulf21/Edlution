@@ -1,0 +1,28 @@
+EXAM
+
+C. Create a Branching dialogue in flutter using the provided flutter files
+
+What is branching dialogue?
+-Essentially, branching dialogue is different menus of choices where each choice that the player
+makes triggers a response from the NPC, followed by a new menu of choices
+
+1. Requirements for Menu
+-The player choice in menu controls the flow of the conversation 
+-A maximum of 3 menus may presented in a single dialogue
+-Player’s choices will have certain points to offer for the final OUTPUT
+
+2. Requirement for Final OUTPUT
+-Final output shows the friendship stats with the NPC 
+
+3. Requirement for Dialogue Flow
+-Min number of dialogue conversation stage is 2 
+
+4. You can follow the branching dialog on branch_dialog_to_follow.pdf
+or you create your own branching dialog
+
+You can search branching dialogue in google to learn more. 
+You can search branching dialogue in google to learn more. 
+
+Use your imagination to do this , good luck :) 
+
+
